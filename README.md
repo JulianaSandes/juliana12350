@@ -1,2 +1,6 @@
 # juliana12350
-# FIAP
+# Fiap School - Técnico de informática - 2EMIA
+Repositório utilizado para entrega de atividades 
+
+#AUTOR
+Juliana Barbosa Sandes
